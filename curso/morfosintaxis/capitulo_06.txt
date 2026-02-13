@@ -1,0 +1,32 @@
+===========================================================
+CAPÍTULO 6: LA CONEXIÓN LÓGICA
+Tema: Preposiciones y Conjunciones (Enlaces)
+===========================================================
+
+1. LAS PREPOSICIONES
+Son palabras invariables que introducen un complemento (el término).
+Relacionan un nombre con el resto de la frase.
+- Lista Clave: a, ante, bajo, con, contra, de, desde, en, entre, 
+  hacia, hasta, para, por, según, sin, sobre, tras...
+- Ejemplo: "Escribo [con] pluma [en] el papel."
+
+2. LAS CONJUNCIONES
+Unen palabras u oraciones de la misma jerarquía.
+- Copulativas (Suman): y, e, ni.
+  * Ejemplo: "Sujeto [y] Predicado."
+- Disyuntivas (Eligen): o, u.
+  * Ejemplo: "¿Pluma [o] lápiz?"
+- Adversativas (Oponen): pero, mas, sino.
+
+3. FUNCIÓN SINTÁCTICA: EL ENLACE (E)
+En el análisis, la preposición funciona como ENLACE y lo que sigue 
+como TÉRMINO. Juntos forman un Sintagma Preposicional (SPrep).
+
+4. EJEMPLOS PARA ANÁLISIS:
+[ID: 06_01] La tinta es para el alumno. (SPrep: para el alumno)
+[ID: 06_02] Cursiva y manual. (Conjunción: y)
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe con trazo fluido: "Pasión por la lengua y el arte".
+- Identifica la preposición y la conjunción.
+===========================================================

@@ -1,0 +1,30 @@
+===========================================================
+CAPÍTULO 7: SUBORDINACIÓN I
+Tema: Proposiciones Subordinadas Adjetivas (Relativas)
+===========================================================
+
+1. ¿QUÉ ES LA SUBORDINACIÓN?
+Es cuando una oración deja de ser independiente y pasa a 
+funcionar como una pieza (un adjetivo, sustantivo o adverbio) 
+dentro de otra oración más grande.
+
+2. LAS SUBORDINADAS ADJETIVAS
+Funcionan exactamente como un adjetivo: describen a un sustantivo.
+- Nexo principal: El pronombre relativo "QUE".
+- Ejemplo: "La pluma [que compré ayer] escribe bien."
+  * Oración Principal: La pluma escribe bien.
+  * Subordinada: [que compré ayer] (Describe a "la pluma").
+
+3. EL ANTECEDENTE
+Es el sustantivo al que se refiere el nexo "que". 
+- En el ejemplo anterior, "pluma" es el antecedente.
+- Regla de Oro: La subordinada debe estar pegada a su antecedente.
+
+4. EJEMPLOS PARA ANÁLISIS EXPERTO:
+[ID: 07_01] El alumno [que estudia] triunfa.
+[ID: 07_02] Uso la tinta [que me regalaste].
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe con esmero: "El arte que cultivamos nos define".
+- Identifica la oración pequeña dentro de la grande.
+===========================================================

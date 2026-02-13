@@ -1,0 +1,31 @@
+===========================================================
+CAPÍTULO 4: LOS SATÉLITES DEL VERBO
+Tema: Complemento Directo (CD) e Indirecto (CI)
+===========================================================
+
+1. EL COMPLEMENTO DIRECTO (CD)
+Es el objeto que recibe la acción del verbo directamente.
+- ¿Cómo identificarlo?: Pregunta ¿QUÉ? al verbo.
+- Ejemplo: "Anya escribe [una carta]." (¿Qué escribe? -> una carta).
+- Prueba Pro-nominal: Se puede sustituir por lo, la, los, las.
+  * "Anya LA escribe."
+
+2. EL COMPLEMENTO INDIRECTO (CI)
+Es el destinatario o beneficiario de la acción.
+- ¿Cómo identificarlo?: Pregunta ¿A QUIÉN? o ¿PARA QUIÉN?
+- Ejemplo: "Anya escribe una carta [a su abuelo]." (¿A quién? -> al abuelo).
+- Prueba Pro-nominal: Se puede sustituir por le, les.
+  * "Anya LE escribe una carta."
+
+3. REGLA DE ORO SINTÁCTICA:
+El CD y el CI completan el sentido del predicado, pero no afectan la concordancia con el sujeto.
+- Ejemplo: "Yo compro flores." (Sujeto singular, CD plural -> OK).
+
+4. EJEMPLOS PARA ANÁLISIS:
+[ID: 04_01] El estudiante limpia la pluma. (CD: la pluma)
+[ID: 04_02] Nosotros damos un regalo al profesor. (CD: un regalo / CI: al profesor)
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe en cursiva: "La tinta dibuja sueños en el papel".
+- Identifica el CD: ¿Qué dibuja la tinta?
+===========================================================

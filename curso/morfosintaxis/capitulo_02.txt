@@ -1,0 +1,31 @@
+===========================================================
+CAPÍTULO 2: EL MOTOR DE LA ACCIÓN
+Tema: El Verbo (Tiempo Presente y Persona)
+===========================================================
+
+1. EL VERBO
+Es la palabra que expresa acción, estado o proceso.
+- Ejemplo: "Escribir", "Correr", "Estudiar", "Ser".
+
+2. PERSONA Y NÚMERO
+El verbo debe cambiar (conjugarse) para coincidir con quien realiza la acción:
+- 1ª Persona (Yo/Nosotros)
+- 2ª Persona (Tú/Vosotros)
+- 3ª Persona (Él-Ella/Ellos-Ellas)
+
+3. REGLA DE CONCORDANCIA VERBAL:
+El núcleo del sujeto y el núcleo del predicado (verbo) deben coincidir.
+- Ejemplo: "Anya escribe" (Correcto: 3ª sing + 3ª sing)
+- Ejemplo: "Anya escriben" (Incorrecto: Error de número)
+
+4. EJEMPLOS PARA ANÁLISIS SINTÁCTICO:
+[ID: 02_01] El estudiante practica caligrafía.
+[ID: 02_02] Nosotros salvamos la cursiva.
+[ID: 02_03] Las plumas dibujan letras.
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe en cursiva: "Yo amo mi lengua materna".
+- Análisis:
+  * "Yo" (Pronombre/Sujeto)
+  * "amo" (Verbo, Presente, 1ª Persona Singular)
+===========================================================

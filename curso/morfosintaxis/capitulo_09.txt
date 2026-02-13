@@ -1,0 +1,31 @@
+===========================================================
+CAPÍTULO 9: EL GRAN CIERRE
+Tema: Proposiciones Subordinadas Adverbiales
+===========================================================
+
+1. ¿QUÉ SON LAS ADVERBIALES?
+Son oraciones que funcionan como un adverbio, indicando las 
+circunstancias de la oración principal. Se dividen en:
+
+2. TIPOS PRINCIPALES:
+- CAUSALES: Indican el motivo. (Nexo: porque, ya que)
+  * "Escribo [porque me apasiona el arte]."
+- FINALES: Indican el propósito. (Nexo: para que)
+  * "Practico [para que mi letra sea legible]."
+- CONDICIONALES: Indican un requisito. (Nexo: si)
+  * "[Si usas buena tinta], el trazo será eterno."
+- CONCESIVAS: Indican un obstáculo. (Nexo: aunque)
+  * "Sigo escribiendo [aunque me canse la mano]."
+
+3. FUNCIÓN SINTÁCTICA:
+Toda la oración subordinada funciona como un 
+COMPLEMENTO CIRCUNSTANCIAL (C.C.) del verbo principal.
+
+4. EJEMPLOS PARA ANÁLISIS FINAL:
+[ID: 09_01] El alumno progresa [porque estudia a diario].
+[ID: 09_02] [Si analizas la frase], entenderás la lógica.
+
+5. DESAFÍO MAESTRO DE CALIGRAFÍA:
+Escribe con tu mejor letra: "Aprendo gramática para que mi voz tenga fuerza".
+- Identifica la intención (Finalidad).
+===========================================================

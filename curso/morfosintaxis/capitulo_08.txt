@@ -1,0 +1,28 @@
+===========================================================
+CAPÍTULO 8: SUBORDINACIÓN II
+Tema: Proposiciones Subordinadas Sustantivas
+===========================================================
+
+1. ¿QUÉ SON LAS SUSTANTIVAS?
+Son oraciones que cumplen la misma función que un sustantivo.
+Pueden ser el Sujeto de la oración o el Complemento Directo (CD).
+
+2. EL NEXO "QUE" (Como conjunción)
+A diferencia del Capítulo 7 (donde "que" era un relativo), aquí 
+el "que" es solo un puente que introduce la idea.
+- Ejemplo: "Anya desea [que todos escriban bien]."
+  * ¿Qué desea Anya? -> [que todos escriban bien] (Funciona como CD).
+
+3. LA PRUEBA DE SUSTITUCIÓN: "ESO"
+Para saber si una subordinada es sustantiva, reemplázala por la palabra "ESO".
+- "Anya desea [QUE todos escriban bien]" -> "Anya desea [ESO]". 
+- Si la frase sigue teniendo sentido lógico, ¡es sustantiva!
+
+4. EJEMPLOS PARA ANÁLISIS:
+[ID: 08_01] Es necesario [que practiques diario]. (Sujeto)
+[ID: 08_02] El profesor dice [que la tinta es eterna]. (CD)
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe con orgullo: "Espero que mi letra sea legible".
+- Sustituye mentalmente: "Espero ESO".
+===========================================================

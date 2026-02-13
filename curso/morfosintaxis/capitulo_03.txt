@@ -1,0 +1,33 @@
+===========================================================
+CAPÍTULO 3: EL NÚCLEO ORACIONAL
+Tema: La Oración Bimembre (Sujeto y Predicado)
+===========================================================
+
+1. LA ORACIÓN
+Es la unidad mínima de comunicación con sentido completo. 
+Se divide en dos partes fundamentales:
+
+2. EL SUJETO (S)
+Es quien realiza la acción o de quien se dice algo.
+- Núcleo del Sujeto (NS): Generalmente es un Sustantivo o Pronombre.
+- Ejemplo: "[La caligrafía cursiva] es un arte." (NS: caligrafía)
+
+3. EL PREDICADO (P)
+Es lo que se dice del sujeto, lo que hace o su estado.
+- Núcleo del Predicado (NP): Siempre es un Verbo conjugado.
+- Ejemplo: "El estudiante [escribe con pluma]." (NP: escribe)
+
+4. LA PRUEBA DE FUEGO (CONCORDANCIA)
+Si cambias el número del Sujeto, el Verbo DEBE cambiar obligatoriamente.
+- Singular: La pluma escribe.
+- Plural: Las plumas escriben.
+
+5. EJEMPLOS PARA ANÁLISIS SINTÁCTICO:
+[ID: 03_01] El profesor enseña gramática.
+[ID: 03_02] Las letras fluyen sobre el papel.
+[ID: 03_03] La IA analiza los trazos manuales.
+
+6. DESAFÍO DE CALIGRAFÍA:
+Escribe en cursiva y marca con un color el verbo: 
+"Nuestras manos crean belleza eterna."
+===========================================================

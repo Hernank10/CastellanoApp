@@ -1,0 +1,31 @@
+===========================================================
+CAPÍTULO 1: LA CÉLULA DEL IDIOMA
+Tema: El Sustantivo y el Adjetivo (Género y Número)
+===========================================================
+
+1. EL SUSTANTIVO (El Nombre)
+Es la palabra que designa seres, objetos, ideas o sentimientos.
+- Ejemplo: "Pluma", "Caligrafía", "Tinta", "Anya".
+
+2. EL ADJETIVO
+Es la palabra que acompaña al sustantivo para expresar una cualidad.
+- Ejemplo: "Elegante", "Cursiva", "Antigua".
+
+3. LA REGLA DE ORO: LA CONCORDANCIA
+En castellano, el sustantivo y el adjetivo DEBEN coincidir en:
+- Género: Masculino / Femenino.
+- Número: Singular / Plural.
+
+4. EJEMPLOS PARA ANÁLISIS (Base de datos para la IA):
+[ID: 01_01] La pluma antigua. -> (Femenino, Singular)
+[ID: 01_02] Los trazos elegantes. -> (Masculino, Plural)
+[ID: 01_03] La cursiva manuscrita. -> (Femenino, Singular)
+
+5. DESAFÍO DE CALIGRAFÍA:
+Escribe en cursiva la frase: "La bella escritura manual".
+- Análisis Morfosintáctico: 
+  * "La" (Artículo)
+  * "bella" (Adjetivo)
+  * "escritura" (Sustantivo)
+  * "manual" (Adjetivo)
+===========================================================
